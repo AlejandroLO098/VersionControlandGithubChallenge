@@ -1,0 +1,5 @@
+1. The terminal provides a simple command line for users. Then it displays the output on screen.
+
+2. Github is a popular VCS that helps track and manage coding projects unlike Git which is a program for simple commands in a local computer. 
+
+3. We use Github to track changes and a keep a history of changes in a code. It helps make collaboration easy. It helps merging coding when working with others on a project.
